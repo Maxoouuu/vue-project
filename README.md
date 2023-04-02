@@ -48,4 +48,9 @@ But it's still recommended to test the production build with `test:e2e` before d
 ```sh
 npm run build
 npm run test:e2e
-```
+```!
+[image](https://user-images.githubusercontent.com/76161577/229343220-b8ecb885-f991-469f-a5f5-983f7bfb9a69.png)
+![image](https://user-images.githubusercontent.com/76161577/229343287-594af216-3c7f-4634-a28c-c255361e67cc.png)
+
+
+
