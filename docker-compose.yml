@@ -19,7 +19,7 @@ services:
     container_name: mysql-db
     command: --default-authentication-plugin=mysql_native_password
     environment:
-      MYSQL_ROOT_PASSWORD: yourpassword
+      MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: yourdatabase
     volumes:
       - mysql-data:/var/lib/mysql
